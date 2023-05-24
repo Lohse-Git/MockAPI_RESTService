@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MockAPI", "MockAPI\MockAPI.csproj", "{DCA958EC-A28C-4FB7-9C5E-ABCA4CB66614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockAPITests", "MockAPITests\MockAPITests.csproj", "{C5797AB1-365B-459A-B0F2-4AB11705975C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA958EC-A28C-4FB7-9C5E-ABCA4CB66614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA958EC-A28C-4FB7-9C5E-ABCA4CB66614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA958EC-A28C-4FB7-9C5E-ABCA4CB66614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA958EC-A28C-4FB7-9C5E-ABCA4CB66614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5797AB1-365B-459A-B0F2-4AB11705975C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5797AB1-365B-459A-B0F2-4AB11705975C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5797AB1-365B-459A-B0F2-4AB11705975C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5797AB1-365B-459A-B0F2-4AB11705975C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8334BED9-D6ED-4E00-BE6C-DED95AC28CB7}
+	EndGlobalSection
+EndGlobal
